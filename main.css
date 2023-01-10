@@ -1,3 +1,24 @@
 body{
-    background-color: red;
+    background-color: lightblue;
+}
+#first-employer{
+    font-family: 'Courier New';
+    border-style: dotted;
+    border-color: blueviolet;
+    border-width: 5px;
+}
+#second-employer{
+    font-family: 'Franklin Gothic Medium';
+    border-style: double;
+    border-color: blue;
+    border-width: 8px;
+}
+#third-employer{
+    font-family: Cambria, Cochin;
+    border-style:solid;
+    border-color: chartreuse;
+    border-width: 10px;
+}
+h3{
+    color: blueviolet
 }
